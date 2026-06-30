@@ -1,0 +1,7 @@
+# Habit Tracker Dependencies
+# No external dependencies needed - uses Python standard library only
+
+# For development and testing (optional):
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=5.0.0
